@@ -1,0 +1,33 @@
+.tarj {
+    border: none;
+    border-radius: 8px;
+}
+.Fitness-User-Info {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 200px;
+}
+.Fitness-tarj {
+    max-height: 140px;
+    max-width: 520px;
+}
+.Fitness-tarj-Info {
+    padding-left: 0;
+    padding-right: 75px;
+}
+.Fitness-tarj-Info h1{
+    font-size: 23px;
+    color: white;
+}
+.Fitness-tarj-Info p{
+    font-size: 11px;
+    color: white;
+}
+.Fitness-Add {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    margin-bottom: 80px;
+    height: 60px;
+}
